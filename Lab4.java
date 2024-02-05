@@ -11,8 +11,8 @@ import java.util.Scanner;
 public class Lab4 {
 
  public static void main(String[] args) {
-     final char SIDE_SYMB = '-';
-     final char MID_SYMB = '*';
+     final char SIDE_SYMB = '=';
+     final char MID_SYMB = '$';
      Scanner scanner = new Scanner(System.in);
      String inputStr = "";
      char choice = ' ';
